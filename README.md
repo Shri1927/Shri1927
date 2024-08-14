@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrishail</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/man-coding-laptop-vector-modern-illustration-flat_933798-2699.jpg" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shri1927&label=Profile%20views&color=0e75b6&style=flat" alt="shri1927" /> </p>
 
