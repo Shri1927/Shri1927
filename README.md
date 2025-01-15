@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Shrishail!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech<br/>
 👩🏻‍🎓 Pursuing [Computer Science] at the Dbatu University of Maharashtra, India/><br/>
-💭 Currently learning about React.js and Dotnet!<br/>
+💭 Currently learning about React.js and typescript!<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ShrishailBidave) 
